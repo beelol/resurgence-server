@@ -1,0 +1,44 @@
+[PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+NerdyWhiteGuy
+Spencer Gilbert
+Jordan Pineo
+Ivy_
+Peregrinus11
+KoTeŭKa
+Hooley
+AdaraChristine
+BrÃ¸nsted
+DreamThorn
+Phillip Swearingain
+Genryu
+Jessie Sims
+Belathus
+Ncc1702
+Pongo Sapiens
+Jonathan McManus
+Zuniroa
+Quaternary
+NickT
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 1ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 262ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <openblocks:hang_glider>
+[POSTINITIALIZATION][SERVER][INFO] 0 removed
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Glider with name ct_shaped-351023291
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Hang Glider with name ct_shaped1365822740
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Glider Wing with name ct_shaped2145520510
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Heavy Cloth with name ct_shaped1807050667
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Heavy Cloth with name ct_shaped525056844
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Rocket with name ct_shaped-363139479
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stick Grenade with name ct_shaped-880646159
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Frag Grenade with name ct_shaped1694034178
