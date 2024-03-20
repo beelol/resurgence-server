@@ -2,3 +2,4 @@ ThaumicTravelersDreamCompact/
 logs
 local/
 mods/OpenTerrainGenerator
+*.DS_Store
